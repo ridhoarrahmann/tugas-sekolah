@@ -9,7 +9,8 @@ class Home extends BaseController
         $data = array(
             "firstName" => "Ridho",
             "lastName"=> "Arrahman",
-            "career"=>"programmer"
+            "career"=>"programmer",
+            "photo"=>"hansohee.jpg"
 
         );
         
